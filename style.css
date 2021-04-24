@@ -1,0 +1,29 @@
+
+
+#content {
+    background-color: #DDBEA9;
+}
+header {
+    font-family: "Oswald" sans-serif;
+    color: #B7B7A4;
+    background-color: #6B705C;
+    border-radius: 5px;
+    height: 100px;
+}
+#name {
+  margin-left: 50px;
+  padding-top: 30px;
+}
+#main {
+    font-family: "Roboto", sans-serif;
+}
+a{
+    color: #6B705C;
+}
+ a:hover {
+   color: #B7B7A4;}
+img {
+  float: right;
+  width: 200px;
+  height: 300px;
+}
