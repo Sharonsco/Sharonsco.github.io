@@ -17,6 +17,9 @@ header {
 #main {
     font-family: "Roboto", sans-serif;
 }
+h2 {
+    border-bottom: solid;
+}
 a{
     color: #6B705C;
 }
