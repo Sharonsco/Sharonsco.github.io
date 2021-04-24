@@ -34,9 +34,12 @@ a{
 img {
   float: right;
   width: 100px;
-  height: 150px;
+  height: 140px;
   margin-top: -80px;
   margin-right: 20px;
+}
+p {
+    text-align: center;
 }
 footer {
   background-color: #6B705C;
